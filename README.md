@@ -1,4 +1,4 @@
-# **Facebook-Like Database System**
+# **Examination of Facebook Database System**
 
 ![Facebook (GitHub)](https://github.com/user-attachments/assets/f0d47587-60cd-46fa-acb5-06d845f9f9be)
 
