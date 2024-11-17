@@ -2,4 +2,6 @@
 
 This project is a simulation of a **Facebook-style database system**, designed to handle the complex requirements of a large-scale social media platform. It focuses on managing user data, relationships, posts, interactions, and messages in a scalable, efficient, and flexible manner.
 
-![ITU](https://github.com/user-attachments/assets/04985ff2-1396-414c-b57d-50279780d526)
+<p align="center">
+  <img width="600" height="583" src="https://github.com/user-attachments/assets/eb75a70c-9b8e-4177-8f57-4a452f8228a6" alt="itu">
+</p>
