@@ -8,5 +8,5 @@
 This project is a simulation of a Facebook database system, designed to handle the complex requirements of a large-scale social media platform. It focuses on managing user data, relationships, posts, interactions, and messages in a scalable, efficient, and flexible manner
 
 <p align="center">
-  <img width="817.5" height="270" src="https://github.com/user-attachments/assets/dbaaf2ae-6972-4a10-a575-82958d2157b3" alt="facebook">
+  <img width="980" height="481" src="https://github.com/user-attachments/assets/dbaaf2ae-6972-4a10-a575-82958d2157b3" alt="facebook">
 </p>
