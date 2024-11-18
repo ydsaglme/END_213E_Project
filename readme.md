@@ -1,7 +1,7 @@
 # Examination of Facebook Database System
 
 <p align="center">
-  <img width="1000" height="200" src="https://github.com/user-attachments/assets/be7480a6-ed15-4417-913a-06d901a6efd9" alt="facebook">
+  <img width="1000" height="200" src="https://github.com/user-attachments/assets/a7b9dfb4-cc08-471f-b1f3-e903538a59ec" alt="facebook">
 </p>
 
 ## Description
