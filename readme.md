@@ -13,10 +13,10 @@ Key queries and reports used within Facebook's system are analyzed to understand
 This analysis underscores the complexity and efficiency of Facebook's database system, which supports millions of daily interactions. By understanding the structure and functionality of the database, the project highlights the critical role data management plays in sustaining such a multifaceted platform. These insights offer valuable lessons in designing scalable and efficient database systems for large-scale applications.
 
 ## Contributors
-1. **_Can Erbaşoğlu_**
+**_Can Erbaşoğlu_**
 
-2. **_Efe Murat Uçarlı_**
+**_Efe Murat Uçarlı_**
 
-3. **_Kağan Turhan_**
+**_Kağan Turhan_**
 
-4. **_Osman Batuhan İnalöz_**
+**_Osman Batuhan İnalöz_**
