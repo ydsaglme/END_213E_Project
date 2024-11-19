@@ -18,7 +18,7 @@ SELECT User.User_Name as [Streamer Name], SUM(Stream.Total_Earning) AS Amount_To
 INNER JOIN Stream ON Streamer.Streamer_ID = Stream.Streamer_ID
 GROUP BY User.User_Name HAVING SUM(Stream.Total_Earning) > 100 
 ```
-Facebook pays streamers who earn over $100 per month at the end of the month. This query determines which streamers are eligible and how much should be paid. User, Streamer, Stream tables and aggregate function are used for this query.
+_Facebook pays streamers who earn over $100 per month at the end of the month. This query determines which streamers are eligible and how much should be paid. User, Streamer, Stream tables and aggregate function are used for this query._
 
 ## Contributors
 _Can Erbaşoğlu_
