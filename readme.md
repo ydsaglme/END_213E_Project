@@ -15,3 +15,7 @@ This analysis underscores the complexity and efficiency of Facebook's database s
 <p align="center">
   <img width="309.75" height="433.5" src="https://github.com/user-attachments/assets/bffe9c66-77b9-456f-a807-3c3a2700eeea" alt="itu">
 </p>
+
+<img align="left" src="https://github.com/user-attachments/assets/bffe9c66-77b9-456f-a807-3c3a2700eeea" alt="itu" />
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five 
+centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
