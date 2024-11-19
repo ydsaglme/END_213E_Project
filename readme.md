@@ -14,9 +14,16 @@ This analysis underscores the complexity and efficiency of Facebook's database s
 
 ## Sample Queries
 ```
+SELECT User.User_Name, Posts.Post_ID, Posts.Published_at FROM User
+INNER JOIN Posts ON Posts.User_ID = User.User_ID
+WHERE User.User_ID = 4 AND Posts.Post_Type = 3
+ORDER BY Posts.Published_at DESC;
+```
+_Users save the ads they like and Facebook stores them in their database. This query is used to list which adds a specific user saved. Saved_Ads and User tables are used for this query._
+```
 SELECT User.User_Name AS [Streamer Name], SUM(Stream.Total_Earning) AS Amount_To_Be_Paid FROM (Streamer INNER JOIN User ON Streamer.User_ID = User.User_ID)
 INNER JOIN Stream ON Streamer.Streamer_ID = Stream.Streamer_ID
-GROUP BY User.User_Name HAVING SUM(Stream.Total_Earning) > 100 
+GROUP BY User.User_Name HAVING SUM(Stream.Total_Earning) > 100;
 ```
 _Facebook pays streamers who earn over $100 per month at the end of the month. This query determines which streamers are eligible and how much should be paid. User, Streamer, Stream tables and aggregate function are used for this query._
 
