@@ -10,6 +10,7 @@ The database includes numerous entities, such as users, accounts, admins, posts,
 Key queries and reports used within Facebook's system are analyzed to understand how data is extracted and utilized. Examples include identifying saved ads for a specific user, retrieving comments on a post, calculating earnings for eligible streamers, and determining the most engaged users in games. Reports generated from these queries provide actionable insights, such as user preferences and content performance, which help optimize the platform and create more personalized experiences for users.
 
 This analysis underscores the complexity and efficiency of Facebook's database system, which supports millions of daily interactions. By understanding the structure and functionality of the database, the project highlights the critical role data management plays in sustaining such a multifaceted platform. These insights offer valuable lessons in designing scalable and efficient database systems for large-scale applications.
+       
 <p align="center">
   <img width="309.75" height="433.5" src="https://github.com/user-attachments/assets/bffe9c66-77b9-456f-a807-3c3a2700eeea" alt="itu">
 </p>
