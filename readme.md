@@ -1,4 +1,6 @@
 # Examination of Facebook Database System
+![facebook](https://github.com/user-attachments/assets/b2fe736b-5f80-4936-a25d-7c2b53d8b6a1)
+
 <p align="center">
   <img width="545" height="180" src="https://github.com/user-attachments/assets/7f5255ba-875b-45a3-ac8e-e4335f1d8cb5" alt="facebook">
 </p>
