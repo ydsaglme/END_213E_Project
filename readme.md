@@ -21,6 +21,12 @@ ORDER BY Posts.Published_at DESC;
 ```
 _Users save the ads they like and Facebook stores them in their database. This query is used to list which adds a specific user saved. Saved_Ads and User tables are used for this query._
 ```
+SELECT Posts.Post_ID, User.User_Name, Comments.Content FROM (Comments INNER JOIN User ON User.User_ID = Comments.User_ID)
+INNER JOIN Posts ON Posts.Post_ID = Comments.Post_ID
+WHERE Posts.Post_ID = 5;
+```
+_Users can comment on different users' posts and when a user clicks on any post while browsing Facebook, they see these comments. Thanks to this query, related comments are displayed under the relevant post._
+```
 SELECT User.User_Name AS [Streamer Name], SUM(Stream.Total_Earning) AS Amount_To_Be_Paid FROM (Streamer INNER JOIN User ON Streamer.User_ID = User.User_ID)
 INNER JOIN Stream ON Streamer.Streamer_ID = Stream.Streamer_ID
 GROUP BY User.User_Name HAVING SUM(Stream.Total_Earning) > 100;
