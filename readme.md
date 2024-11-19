@@ -23,8 +23,8 @@ Facebook pays streamers who earn over $100 per month at the end of the month. Th
 ## Contributors
 **_Can Erbaşoğlu_**
 
-**_Efe Murat Uçarlı_** (https://github.com/efemuratucarli)
+**_Efe Murat Uçarlı (https://github.com/efemuratucarli)_**
 
-**_Kağan Turhan_** (https://github.com/kaganturhan)
+**_Kağan Turhan (https://github.com/kaganturhan)_**
 
-**_Osman Batuhan İnalöz_** (https://github.com/ydsaglme)
+**_Osman Batuhan İnalöz (https://github.com/ydsaglme)_**
