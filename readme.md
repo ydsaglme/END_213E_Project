@@ -1,7 +1,6 @@
 # Examination of Facebook Database System
-
-![itu](https://github.com/user-attachments/assets/70ee0cdf-cb05-4687-9cab-26d0de319c03)
-
+![itu](https://github.com/user-attachments/assets/bffe9c66-77b9-456f-a807-3c3a2700eeea)
+![facebook](https://github.com/user-attachments/assets/7f5255ba-875b-45a3-ac8e-e4335f1d8cb5)
 <p align="center">
   <img width="1239" height="1734" src="https://github.com/user-attachments/assets/48b5c761-db1c-49c2-8977-c754c64ce6a9" alt="itu">
 </p>
