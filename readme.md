@@ -14,7 +14,7 @@ This analysis underscores the complexity and efficiency of Facebook's database s
 
 ## Sample Queries
 ```
-XXX
+SELECT User.User_Name as [Streamer Name] ,SUM(Stream.Total_Earning) AS Amount_To_Be_Paid FROM (Streamer INNER JOIN User ON Streamer.User_ID = User.User_ID) INNER JOIN Stream ON Streamer.Streamer_ID = Stream.Streamer_ID GROUP BY User.User_Name HAVING SUM(Stream.Total_Earning) > 100 
 ```
 
 ## Contributors
