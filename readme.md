@@ -16,6 +16,9 @@ This analysis underscores the complexity and efficiency of Facebook's database s
 ## Contributors
 <img align="right" width="309.75" height="433.5" src="https://github.com/user-attachments/assets/bffe9c66-77b9-456f-a807-3c3a2700eeea" alt="itu" />
 Can Erbaşoğlu
+
 Efe Murat Uçarlı
+
 Kağan Turhan
+
 Osman Batuhan İnalöz
