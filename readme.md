@@ -3,8 +3,6 @@
   <img width="886" height="158" src="https://github.com/user-attachments/assets/ade10a9c-dacd-4eb9-8d95-0c477576e235" alt="facebook">
 </p>
 
-![icon](https://github.com/user-attachments/assets/16ac7b4f-1527-4115-bac3-806324c2f651)
-
 ## About Project
 This project focuses on analyzing Facebook's database system to understand how it supports the platform’s extensive features and operations. Facebook's database is designed to handle a variety of user activities, including messaging, posting, reacting, commenting, and participating in marketplace transactions. The platform also incorporates additional features like gaming and live streaming, all of which rely on efficient data management and integration. By studying the database structure and functionality, the project provides insights into the underlying mechanisms that make these features possible.
 
