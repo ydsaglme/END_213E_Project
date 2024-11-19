@@ -1,6 +1,6 @@
 # Examination of Facebook Database System
 <p align="center">
-  <img width="886" height="158" src="https://github.com/user-attachments/assets/4f1554e4-57d5-4734-a9f9-9e943bd02055" alt="facebook">
+  <img width="886" height="158" src="https://github.com/user-attachments/assets/ac318821-9704-4a99-9259-d3c90f766b94" alt="facebook">
 </p>
 
 ## About Project
