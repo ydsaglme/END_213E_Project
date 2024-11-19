@@ -20,8 +20,8 @@ SELECT User.User_Name as [Streamer Name] ,SUM(Stream.Total_Earning) AS Amount_To
 ## Contributors
 **_Can Erbaşoğlu_**
 
-**_Efe Murat Uçarlı_**
+**_Efe Murat Uçarlı_** (https://github.com/efemuratucarli)
 
-**_Kağan Turhan_**
+**_Kağan Turhan_** (https://github.com/kaganturhan)
 
-**_Osman Batuhan İnalöz_**
+**_Osman Batuhan İnalöz_** (https://github.com/ydsaglme)
