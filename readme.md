@@ -35,10 +35,10 @@ GROUP BY User.User_Name HAVING SUM(Stream.Total_Earning) > 100;
 _Facebook pays streamers who earn over $100 per month at the end of the month. This query determines which streamers are eligible and how much should be paid. User, Streamer, Stream tables and aggregate function are used for this query._
 
 ## Contributors
-_Can Erbaşoğlu_
+**_Can Erbaşoğlu_**
 
-_Efe Murat Uçarlı (https://github.com/efemuratucarli)_
+**_Efe Murat Uçarlı (https://github.com/efemuratucarli)_**
 
-_Kağan Turhan (https://github.com/kaganturhan)_
+**_Kağan Turhan (https://github.com/kaganturhan)_**
 
-_Osman Batuhan İnalöz (https://github.com/ydsaglme)_
+**_Osman Batuhan İnalöz (https://github.com/ydsaglme)_**
