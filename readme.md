@@ -1,7 +1,7 @@
 # Examination of Facebook Database System
 ![facebook](https://github.com/user-attachments/assets/5751b79f-3f7f-4928-ae33-409232c916ae)
 
-<h1 (or 2 etc.) align="center"> your text </h1>
+<h1 align="center"> your text </h1>
 
 ## About Project
 This project focuses on analyzing Facebook's database system to understand how it supports the platform’s extensive features and operations. Facebook's database is designed to handle a variety of user activities, including messaging, posting, reacting, commenting, and participating in marketplace transactions. The platform also incorporates additional features like gaming and live streaming, all of which rely on efficient data management and integration. By studying the database structure and functionality, the project provides insights into the underlying mechanisms that make these features possible.
